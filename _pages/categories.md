@@ -1,6 +1,5 @@
 ---
 title: 分类
-layout: page
 permalink: "/categories/"
 ---
 {% for category in site.categories %}
